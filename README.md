@@ -40,6 +40,3 @@ Frontend Setup:
     npm start
 
 The frontend will start running on http://localhost:5173 (default).
-
-Access the Application:
-Open http://localhost:3000 in your browser to access the chat application.

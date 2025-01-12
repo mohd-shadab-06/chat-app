@@ -22,22 +22,22 @@ Steps to Run Locally:
 
 Clone the Repository:
 
-git clone <repository_url>
-cd real-time-chat-application
+    git clone <repository_url>
+    cd real-time-chat-application
 
 Backend Setup:
 
-cd server
-npm install
-npm start
+    cd server
+    npm install
+    npm start
 
 The backend will start running on http://localhost:3000 (default).
 
 Frontend Setup:
 
-cd ../client
-npm install
-npm start
+    cd ../client
+    npm install
+    npm start
 
 The frontend will start running on http://localhost:5173 (default).
 
